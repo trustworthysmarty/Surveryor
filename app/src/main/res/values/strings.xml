@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Surveyor</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_temp_response">TempResponse</string>
+    <string name="facebook_app_id">1016101071791087</string>
+</resources>
